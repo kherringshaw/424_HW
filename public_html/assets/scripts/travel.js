@@ -25,7 +25,7 @@ function travelNotes() {
     }
   }
   
-  //manage input field and new note output
+  //manage delete field
   function deleteNote() {
     //object for wrapper html for note
     var $note = $("<p>");
