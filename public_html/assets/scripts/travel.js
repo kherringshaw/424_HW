@@ -33,7 +33,7 @@ function travelNotes() {
     var $note_text = $(".note-output note");
     //conditional check for input field
     if ($note_text.val() !== "") {
-        console.log("work");
+        //console.log("work");
          $("p").prev().hide(500);
     }
   }
